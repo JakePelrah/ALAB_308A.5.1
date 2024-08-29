@@ -1,4 +1,4 @@
-import { Stack } from "./Stack.js";
+import { Stack } from "./stack.js";
 
 
 const myStack = new Stack()
